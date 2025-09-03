@@ -1,5 +1,3 @@
-# Lipika Behera
-
 
 # Lipika Behera
 
