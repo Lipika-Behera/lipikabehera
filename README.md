@@ -121,4 +121,4 @@ Highly motivated and results-oriented **Senior Software Development Engineer** w
 
 ---
 
-**Remember to fill in all `[ ]` placeholders with your specific details and quantifiable achievements to make your resume truly impactful!**
+
