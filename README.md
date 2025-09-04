@@ -3,8 +3,7 @@
 **Phone:** 9040826139
 **Email:** lipika.lilu@gmail.com
 **LinkedIn:** [https://www.linkedin.com/in/lipika-behera-60621a34/](https://www.linkedin.com/in/lipika-behera-60621a34/)
-**GitHub:** [Your GitHub Profile URL (e.g., https://github.com/yourusername)]([Your GitHub Profile URL])
-**Portfolio/Personal Website:** [Your Portfolio/Personal Website URL (Optional)]([Your Portfolio/Personal Website URL])
+**GitHub:** (https://github.com/lipika-Behera/lipikabehera)
 
 ---
 
