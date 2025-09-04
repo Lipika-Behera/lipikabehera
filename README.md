@@ -62,7 +62,6 @@ Highly motivated and results-oriented **Senior Software Development Engineer** w
 ## Education
 
 ### Bachelor of Technology | Biju Patnaik University of Technology, Bhubaneswar, Odisha
-**[Graduation Year, e.g., May 2020]**
 
 *   **Relevant Coursework:** Data Structures and Algorithms, Database Management Systems, Web Development, Object-Oriented Programming.
 
