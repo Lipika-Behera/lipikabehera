@@ -9,7 +9,7 @@
 
 ## Summary
 
-Highly motivated and results-oriented **Senior Software Development Engineer** with 5 years of continuous experience at Nirmalya Labs Pvt. Ltd., specializing in building robust, scalable web applications. Possessing 4 years of hands-on expertise in PHP web application development (Laravel) and 1 year in Java Spring Boot. Proven ability to drive projects through the full software development life cycle, from concept to deployment and maintenance. Adept at leveraging modern frameworks, relational databases, and front-end technologies to deliver high-performance solutions. Eager to contribute innovative web experiences and technical leadership to a dynamic team.
+A highly motivated and results-oriented Senior Software Development Engineer with 5 years of dedicated experience. I specialize in the end-to-end development of robust and scalable web applications, guiding projects from initial concept through deployment and ongoing maintenance. My technical foundation includes 4 years of hands-on expertise in PHP web application development (Laravel) and 1 year deeply immersed in Java Spring Boot. I am adept at designing and implementing high-performance solutions utilizing modern frameworks, relational databases, and diverse front-end technologies. Constantly seeking opportunities to innovate and provide technical leadership within a collaborative and forward-thinking environment.
 
 ---
 
